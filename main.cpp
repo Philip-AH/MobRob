@@ -12,7 +12,7 @@
 // main programm 
 int main(void)
 {
-    std::cout  << "Hello World from Chris" << std::endl; 
+    std::cout  << "Hello World from Philip" << std::endl; 
 
 
     return 0; 
